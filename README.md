@@ -136,10 +136,11 @@ plt.show()
 ```
 
 ## Project Structure
-
+```
 ├── README.md
 ├── HousePrice_Predict.ipynb        # Main Google Colab notebook containing the code
 └── House Price India.csv           # Dataset file (downloaded via kagglehub)
+```
 
 ## Contributing
 Feel free to fork this repository and submit pull requests if you have any improvements or suggestions. For major changes, please open an issue first to discuss what you would like to change.
